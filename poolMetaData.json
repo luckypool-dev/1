@@ -1,6 +1,7 @@
 {
 "name": "Lucky Pool",
-"description": "🍀 The original Lucky Pool transferred over from ITN with 0.5M Pledge - Only 0.5% fee at all times to ensure Maximum Rewards!",
 "ticker": "LUCKY",
-"homepage": "https://lucky-pool.com"
+"extended": "https://data.pooltool.io/md/987b08c7-f998-4ecc-ad85-fe2d87981613",
+"homepage": "https://lucky-pool.com",
+"description": "🍀 The original Lucky Pool transferred over from ITN with 0.5M Pledge - Only 0.5% fee at all times to ensure Maximum Rewards!"
 }
